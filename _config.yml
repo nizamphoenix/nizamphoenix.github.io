@@ -37,7 +37,7 @@ round-avatar: true
 
 # --- Footer social media links --- #
 author:
-  name: "Nizamuddin"
+  name: Nizamuddin
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
