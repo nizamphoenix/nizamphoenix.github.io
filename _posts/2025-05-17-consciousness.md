@@ -10,8 +10,7 @@ This is an attempt at summarising modern findings around consciousness.
 [This](https://www.popularmechanics.com/science/a64701831/descartes-consciousness-theory-challenged/) article challenges René Descartes' famous idea, _"I think, therefore I am,"_ by presenting new research suggesting that consciousness _begins in the body, not the mind_. Here are the key takeaways:
 
 1. **Core Argument:**  
-Consciousness may originate from bodily feelings (e.g., hunger, pain, pleasure) rather than thought.  
-The new perspective suggests _"I feel, therefore I am"_ as a more accurate maxim.
+Consciousness may originate from bodily feelings (e.g., hunger, pain, pleasure) rather than thought. The new perspective suggests _"I feel, therefore I am"_ as a more accurate maxim.
 
 
 3. **Scientific Study:**  
