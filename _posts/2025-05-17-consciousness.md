@@ -11,13 +11,13 @@ This is an attempt at summarising modern findings around consciousness.
 
 1. **Core Argument:**  
 Consciousness may originate from bodily feelings (e.g., hunger, pain, pleasure) rather than thought.  
-The new perspective suggests "I feel, therefore I am" as a more accurate maxim.
+The new perspective suggests _"I feel, therefore I am"_ as a more accurate maxim.
 
 3. **Scientific Study:**  
 A large-scale study tested two major theories of consciousness:  
-- Integrated Information Theory (IIT): Consciousness arises from deeply connected information in the posterior cortex (back of the brain).  
-- Global Neuronal Workspace Theory (GNWT): Consciousness arises when the prefrontal cortex (front of the brain) broadcasts information widely.    
-Results leaned toward IIT, showing the posterior cortex plays a significant role in conscious awareness.
+- Integrated Information Theory (IIT): Consciousness arises from deeply connected information in the posterior cortex.  
+- Global Neuronal Workspace Theory (GNWT): Consciousness arises when the prefrontal cortex broadcasts information widely.    
+Results leaned toward IIT, showing the posterior cortex plays a significant role in conscious awareness.  
 
 4. **Implications:**  
 Understanding consciousness could reshape life-or-death decisions, such as determining awareness in coma patients.  
