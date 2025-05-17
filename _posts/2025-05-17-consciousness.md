@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Are we thinking machines that feel, or feeling bodies that think ? 🙃
+title: Consciousness 🧠
+subtitle: Are we thinking machines that feel, or feeling bodies that think ? 🙃
+cover-img: /img/consciousness.png
 ---
 
 This is an attempt at summarising modern findings around consciousness.
